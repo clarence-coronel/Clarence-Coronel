@@ -2,7 +2,7 @@
 
 `Junior Front-End Developer`
 
-### ✌️ About ✌️
+###  ✌️ About ✌️
 <br/>
 Passionate about merging design seamlessly with code, specializes in crafting captivating digital experiences through continuous learning and innovation.
 
