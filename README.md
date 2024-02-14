@@ -4,11 +4,10 @@
 
 ✌️ About ✌️
 Passionate about merging design seamlessly with code, specializes in crafting captivating digital experiences through continuous learning and innovation.
+<br/>
+Upon entering college, I opted for a degree in BSIT (Bachelor of Science in Information Technology) in Bulacan State University. I excelled in various subjects and gained a foundational understanding of multiple programming languages. However, it wasn't until my third year that I stumbled upon web development and became fascinated. Engaging in numerous projects involving the development of web-based systems sparked a personal initiative to delve deeper into web development through self-study and building personal projects on my own, which was something I enjoy more. Despite enjoying both front-end and back-end development, I made a conscious decision to specialize in front-end work. The appeal of bringing designs to life and implementing them resonated with me, steering my focus toward this aspect of web development.
 
-Upon entering college, I opted for a degree in BSIT (Bachelor of Science in Information Technology) in Bulacan State University. I excelled in various subjects and gained a foundational understanding of multiple programming languages. However, it wasn't until my third year that I stumbled upon web development and became fascinated. Engaging in numerous projects involving the development of web-based systems sparked a personal initiative to delve deeper into web development through self-study and building personal projects on my own, which was something I enjoy more.
 
-
-Despite enjoying both front-end and back-end development, I made a conscious decision to specialize in front-end work. The appeal of bringing designs to life and implementing them resonated with me, steering my focus toward this aspect of web development.
 ---
 
 ### 🛠️ Languages and Tools 🛠️
