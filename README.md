@@ -2,7 +2,7 @@
 
 `Junior Front-End Developer`
 
-<h1 style="color: white;"> About </h1>
+<h1 style="color: #191594;"> About </h1>
 
 Passionate about merging design seamlessly with code, specializes in crafting captivating digital experiences through continuous learning and innovation.
 
