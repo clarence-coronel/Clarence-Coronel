@@ -14,7 +14,7 @@ Passionate about merging design seamlessly with code, specializes in crafting ca
 <img align="left" alt="mysql" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="vscode" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<br/>
+<br/><br/>
 
 ### Check out my [PORTFOLIO](https://clarence-coronel.github.io/portfolio-2023/) to see my projects!
 
