@@ -18,9 +18,6 @@ Passionate about merging design seamlessly with code, specializes in crafting ca
 
 ### Check out my [PORTFOLIO](https://clarence-coronel.github.io/portfolio-2023/) to see my projects!
 
-<br/>
-
-
 
 #
 
