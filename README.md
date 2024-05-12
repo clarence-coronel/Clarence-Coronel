@@ -14,7 +14,7 @@ Passionate about merging design seamlessly with code, specializes in crafting ca
 
 <br/><br/>
 
-### Check out my [PORTFOLIO](https://clarence-coronel.com) / clarence-coronel.com
+### Check out my [PORTFOLIO](https://clarence-coronel.com) / www.clarence-coronel.com
 
 
 #
