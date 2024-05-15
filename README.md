@@ -1,4 +1,4 @@
-`Junior Front-End Developer`
+<h1>Aspiring Front-End Developer</h1>
 
 ###  ✌️ About ✌️
 Passionate about merging design seamlessly with code, specializes in crafting captivating digital experiences through continuous learning and innovation.
