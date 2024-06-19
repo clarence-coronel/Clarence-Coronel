@@ -1,4 +1,4 @@
-<h1>Aspiring Front-End Developer</h1>
+<h1>Aspiring Full-Stack Developer</h1>
 
 ###  ✌️ About ✌️
 Passionate and detail-oriented aspiring full-stack web developer with a keen eye for crafting visually captivating and user-centric websites, coupled with a robust understanding of back-end development. Eager to leverage my strong foundation in both front-end and back-end technologies to make meaningful contributions.
