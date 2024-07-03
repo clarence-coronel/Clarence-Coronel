@@ -1,7 +1,7 @@
-<h1>Aspiring Full-Stack Developer</h1>
+<h1>Aspiring Frontend Developer</h1>
 
 ###  ✌️ About ✌️
-Passionate and detail-oriented aspiring full-stack web developer with a keen eye for crafting visually captivating and user-centric websites, coupled with a robust understanding of back-end development. Eager to leverage my strong foundation in both front-end and back-end technologies to make meaningful contributions.
+Passionate about merging design seamlessly with code, specializes in crafting captivating digital experiences through continuous learning and innovation.
 
 ### 🛠️ Languages and Tools 🛠️
 <img align="left" alt="vue.js" width="30" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
