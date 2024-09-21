@@ -1,4 +1,4 @@
-<h1>Aspiring Frontend Developer</h1>
+<h1>Junior Full Stack Developer</h1>
 
 ###  ✌️ About ✌️
 Passionate about merging design seamlessly with code, specializes in crafting captivating digital experiences through continuous learning and innovation.
